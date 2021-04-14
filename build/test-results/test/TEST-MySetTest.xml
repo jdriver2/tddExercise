@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MySetTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-04-14T17:18:13" hostname="Jesses-MBP.lan" time="0.028">
+  <properties/>
+  <testcase name="addItemExceedArraySize()" classname="MySetTest" time="0.023"/>
+  <testcase name="addItem()" classname="MySetTest" time="0.001"/>
+  <testcase name="addItemUniqueElementsOnly()" classname="MySetTest" time="0.001"/>
+  <testcase name="createSet()" classname="MySetTest" time="0.001"/>
+  <testcase name="removeTest()" classname="MySetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
